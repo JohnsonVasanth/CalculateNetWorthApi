@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateNetWorthApi", "CalculateNetWorthApi.csproj", "{65C0675C-8900-4259-82BC-5147A668363C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetWorthTest", "..\NetWorthTest\NetWorthTest.csproj", "{D1FC1A44-45FE-48A8-93A9-A5882F193685}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65C0675C-8900-4259-82BC-5147A668363C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C0675C-8900-4259-82BC-5147A668363C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C0675C-8900-4259-82BC-5147A668363C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C0675C-8900-4259-82BC-5147A668363C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1FC1A44-45FE-48A8-93A9-A5882F193685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FC1A44-45FE-48A8-93A9-A5882F193685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FC1A44-45FE-48A8-93A9-A5882F193685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FC1A44-45FE-48A8-93A9-A5882F193685}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C06392B4-90F8-4313-AB4A-8165FD655D2C}
+	EndGlobalSection
+EndGlobal
